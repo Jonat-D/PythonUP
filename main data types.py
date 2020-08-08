@@ -153,35 +153,3 @@ dict.update(D) #adds keys-values to the dictionary / agrega clave-valores al dic
 dict.clear() #removes all keys-values from the dictionary / elimina todas las claves-valores del diccionario
 
 dict.copy() #returns a copy of the dictionary / devuelve una copia del diccionario
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
